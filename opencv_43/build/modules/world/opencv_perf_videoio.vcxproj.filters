@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv\modules\videoio\perf\perf_input.cpp">
+      <Filter>opencv_videoio\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv\modules\videoio\perf\perf_main.cpp">
+      <Filter>opencv_videoio\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv\modules\videoio\perf\perf_output.cpp">
+      <Filter>opencv_videoio\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv\modules\videoio\perf\perf_camera.impl.hpp">
+      <Filter>opencv_videoio\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\opencv\opencv\modules\videoio\perf\perf_precomp.hpp">
+      <Filter>opencv_videoio\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_videoio">
+      <UniqueIdentifier>{32D6887E-1E32-34BB-B8B5-47A6F19813DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_videoio\Include">
+      <UniqueIdentifier>{DEB44ABA-F3E6-3646-8AAE-3D9754ACE920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_videoio\Src">
+      <UniqueIdentifier>{5BC6EB76-8E85-30E5-9B97-DD4E5421981C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

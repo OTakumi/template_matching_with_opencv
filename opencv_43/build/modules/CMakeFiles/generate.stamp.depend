@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/opencv/opencv/3rdparty/ffmpeg/ffmpeg.cmake
+C:/opencv/opencv/build/3rdparty/ffmpeg/ffmpeg_version.cmake
+C:/opencv/opencv/modules/CMakeLists.txt
+C:/opencv/opencv/modules/gapi/cmake/DownloadADE.cmake
+C:/opencv/opencv/modules/gapi/cmake/init.cmake
+C:/opencv/opencv/modules/videoio/cmake/detect_dc1394.cmake
+C:/opencv/opencv/modules/videoio/cmake/detect_dshow.cmake
+C:/opencv/opencv/modules/videoio/cmake/detect_ffmpeg.cmake
+C:/opencv/opencv/modules/videoio/cmake/detect_gstreamer.cmake
+C:/opencv/opencv/modules/videoio/cmake/detect_msmf.cmake
+C:/opencv/opencv/modules/videoio/cmake/init.cmake
+C:/opencv/opencv_contrib/modules/matlab/cmake/init.cmake
+C:/opencv/opencv_contrib/modules/text/cmake/FindTesseract.cmake
+C:/opencv/opencv_contrib/modules/text/cmake/init.cmake

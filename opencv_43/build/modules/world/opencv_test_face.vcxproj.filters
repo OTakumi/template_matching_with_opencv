@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_bif.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_face_align.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_facemark.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_facemark_aam.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_facemark_lbf.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_loadsave.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_mace.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\face\test\test_main.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv_contrib\modules\face\test\test_precomp.hpp">
+      <Filter>opencv_face\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_face">
+      <UniqueIdentifier>{ED1ECFC9-1EC9-39E4-9D23-021A654805B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Include">
+      <UniqueIdentifier>{3849ABC4-90A9-36B4-A34E-F37FE38160F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Src">
+      <UniqueIdentifier>{C5620D59-23EB-3594-A4AC-47B194B6188A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

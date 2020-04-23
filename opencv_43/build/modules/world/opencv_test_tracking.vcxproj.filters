@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\tracking\test\test_aukf.cpp">
+      <Filter>opencv_tracking\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\tracking\test\test_main.cpp">
+      <Filter>opencv_tracking\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\tracking\test\test_trackerParametersIO.cpp">
+      <Filter>opencv_tracking\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\tracking\test\test_trackers.cpp">
+      <Filter>opencv_tracking\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\tracking\test\test_ukf.cpp">
+      <Filter>opencv_tracking\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv_contrib\modules\tracking\test\test_precomp.hpp">
+      <Filter>opencv_tracking\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_tracking">
+      <UniqueIdentifier>{CE32C35C-A26F-3FD1-B9C6-971A648693AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_tracking\Include">
+      <UniqueIdentifier>{CA014BB3-1C18-3EC1-AEF7-E586B35A3937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_tracking\Src">
+      <UniqueIdentifier>{131E550C-4D4A-3509-A6C7-7B4817E00491}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

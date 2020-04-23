@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv\modules\stitching\test\ocl\test_warpers.cpp">
+      <Filter>opencv_stitching\Src\ocl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv\modules\stitching\test\test_blenders.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv\modules\stitching\test\test_blenders.cuda.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv\modules\stitching\test\test_main.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv\modules\stitching\test\test_matchers.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv\modules\stitching\test\test_precomp.hpp">
+      <Filter>opencv_stitching\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_stitching">
+      <UniqueIdentifier>{A4B44A9A-CAF4-3372-AE4A-1579C2325BFE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Include">
+      <UniqueIdentifier>{174AD669-AB0B-3EBB-9B1D-6B2FBFDC4B97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src">
+      <UniqueIdentifier>{083FC9F1-AD91-3A13-A19E-751F837B56AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src\ocl">
+      <UniqueIdentifier>{9160E178-1311-352A-AF8E-324BB33D6BFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

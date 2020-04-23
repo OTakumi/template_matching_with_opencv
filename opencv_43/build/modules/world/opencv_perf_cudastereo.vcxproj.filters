@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\cudastereo\perf\perf_main.cpp">
+      <Filter>opencv_cudastereo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\cudastereo\perf\perf_stereo.cpp">
+      <Filter>opencv_cudastereo\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv_contrib\modules\cudastereo\perf\perf_precomp.hpp">
+      <Filter>opencv_cudastereo\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudastereo">
+      <UniqueIdentifier>{44AA70BC-767E-3246-AB95-141C6421E128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudastereo\Include">
+      <UniqueIdentifier>{20599C6C-AD00-3BD2-A3C9-857B79C81184}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudastereo\Src">
+      <UniqueIdentifier>{75548555-ABE9-3527-94E9-4094F25F1CD3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

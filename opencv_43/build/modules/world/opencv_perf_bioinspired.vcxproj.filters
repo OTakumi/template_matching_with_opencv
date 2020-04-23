@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\bioinspired\perf\opencl\perf_retina.ocl.cpp">
+      <Filter>opencv_bioinspired\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\bioinspired\perf\perf_main.cpp">
+      <Filter>opencv_bioinspired\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv_contrib\modules\bioinspired\perf\perf_precomp.hpp">
+      <Filter>opencv_bioinspired\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_bioinspired">
+      <UniqueIdentifier>{FC79128C-47FA-3462-8512-736D84E428D5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_bioinspired\Include">
+      <UniqueIdentifier>{2F960747-829B-3ED8-B8D3-0787D7822138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_bioinspired\Src">
+      <UniqueIdentifier>{1AC680F3-EEB2-3E70-BF37-1B6D40E8B04F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_bioinspired\Src\opencl">
+      <UniqueIdentifier>{8F232E3C-2D29-3EA0-85D8-D7A603B11F2F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

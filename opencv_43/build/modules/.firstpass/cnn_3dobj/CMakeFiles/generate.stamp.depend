@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/opencv/opencv_contrib/modules/cnn_3dobj/CMakeLists.txt
+C:/opencv/opencv_contrib/modules/cnn_3dobj/FindCaffe.cmake
+C:/opencv/opencv_contrib/modules/cnn_3dobj/FindGlog.cmake

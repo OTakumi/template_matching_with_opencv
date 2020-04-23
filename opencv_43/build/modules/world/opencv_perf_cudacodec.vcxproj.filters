@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\cudacodec\perf\perf_main.cpp">
+      <Filter>opencv_cudacodec\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\cudacodec\perf\perf_video.cpp">
+      <Filter>opencv_cudacodec\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv_contrib\modules\cudacodec\perf\perf_precomp.hpp">
+      <Filter>opencv_cudacodec\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudacodec">
+      <UniqueIdentifier>{DF88C593-5932-37BE-BC94-7C83CE555857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudacodec\Include">
+      <UniqueIdentifier>{843E3C7D-A81A-3DC0-8868-A1E596A9B8F2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudacodec\Src">
+      <UniqueIdentifier>{F9314606-EB21-352A-BA0A-75BE4345DD2A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

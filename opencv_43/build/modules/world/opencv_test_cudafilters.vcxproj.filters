@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\cudafilters\test\test_filters.cpp">
+      <Filter>opencv_cudafilters\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\opencv\opencv_contrib\modules\cudafilters\test\test_main.cpp">
+      <Filter>opencv_cudafilters\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\opencv\opencv_contrib\modules\cudafilters\test\test_precomp.hpp">
+      <Filter>opencv_cudafilters\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\opencv\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudafilters">
+      <UniqueIdentifier>{F7FD3F84-3E1D-347E-B532-3163678240E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudafilters\Include">
+      <UniqueIdentifier>{59A6974B-DBA8-3513-AE86-90FD421D4727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudafilters\Src">
+      <UniqueIdentifier>{8F6A8A05-1FA8-3265-B6D4-D8F3997CFC3C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
